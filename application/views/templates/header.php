@@ -1,6 +1,6 @@
-<html> 
+<html>
 <head>
-	<title> </title>
+	<title><?php echo $title ?> - Test TO START - Test using Database </title>
 	<style type="text/css">
 
 	::selection{ background-color: #E13300; color: white; }
@@ -44,7 +44,7 @@
 	#body{
 		margin: 0 15px 0 15px;
 	}
-	.mytable{ border:2px inset #990000; color:#000066;}
+	
 	p.footer{
 		text-align: right;
 		font-size: 11px;
